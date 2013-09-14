@@ -1,7 +1,5 @@
 <?
 include('../inc.php');
-print "<h2>You have found the development version of the Code for Sacramento Data Portal.</h2>";
-print "<h3>You will have better luck on the main website <a href='http://www.codeforsacramento.org/data'>Here</a>. In fact, we suggest you use that one.</h3>";
 $sql = new mysql();
 
 $WHERE = NULL;
@@ -58,11 +56,11 @@ foreach($cats as $cat) {
 	";
 	$rows = $sql->getRows($query);
 	foreach($rows as $row) {
-		$date = date('M nS, Y', strtotime($row->created_date));
+    $created_date = date('M jS Y', strtotime($row->created_date));
 		$link = urldecode($row->link);
 		?>
 		  <tr>
-			<td class="data_item"><?=$date;?></td>
+			<td class="data_item"><?=$created_date;?></td>
 			<td class="data_item">
 			 <a href="#" onClick="genericDialog('<?=$row->title;?>', 'views/data_details.php?id=<?=$row->id;?>');"><?=$row->title;?></a>
 			</td>

@@ -18,19 +18,17 @@
 }
 .data_table tr,td a {
 	text-decoration: none;
-	color: #007AA5;
 }
 .data_table tr,td a:visited {
 	text-decoration: none;
-	color: #007AA5;
 }
 .data_table th {
-	background-color: #367588;
-	color: #FFF5EE;
+	background-color: #00b3e3;
+	color: #141412;
 	text-align: left;
 }
 .catTitle {
-	background-color: #ED1C24;
+  background-color: #141412;
 	font-weight: bolder;
 	color: #FFF5EE;
 	padding-top: 2px;
