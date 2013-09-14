@@ -4,9 +4,9 @@ $site_config = array (
     array (
       'host'  => 'localhost',
       'port'  => '3306',
-      'user'  => 'abraxxus_cfsdp',
-      'pass'  => 'code4s@c',
-      'db'    => 'abraxxus_cfsDataPortal',
+      'user'  => 'root',
+      'pass'  => '0cool',
+      'db'    => 'wekan',
 			'resType' => 'object',
 			'result'=> false,
 			'errors'=> true,
@@ -14,8 +14,9 @@ $site_config = array (
     ),
 	'site' =>
 		array (
-			'wwwroot'	=> '/core',
-			'root'		=> '/home1/abraxxus/www/codeforsacramento-sandbox/data',
+      'title'   => 'WeKan',
+			'wwwroot'	=> '',
+			'root'		=> '/var/www/wekan',
 			'lang'		=> 'en',
 			'charset'	=> 'utf-8',
 			'jquery'	=> true,

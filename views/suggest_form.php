@@ -36,19 +36,20 @@ $action_type = $action['type'];
 ?>
 <script>
 $(function() {
-	// Make all info_help links clickable
+	/* Make all info_help links clickable
+   * ================================== */
 	$('.info_help').each(function(index) {
 		var alt = $(this).attr('alt');
 		$(this).click(function() {
 			var help_file = 'views/help/info_'+alt+'.html';
-			ajaxGET(help_file, 'left_container');
+			emerge.ajax_get(help_file, 'left_container');
 		});
 	});
 });
 function updateHelp() {
 	var link_type = $('#type').val().replace(/\s+/g, '_');
 	var help_file = 'views/help/help_'+link_type+'.html';
-	ajaxGET(help_file, 'left_container');
+	emerge.ajax_get(help_file, 'left_container');
 }
 function submit_data(type) {
 	// Since I use serialize to gather up the data from the form, and tinyMCE does not return anything,
@@ -57,8 +58,8 @@ function submit_data(type) {
 	$('#desc').val(ods_desc);
 	// End tinyMCE hack
 
-	var msg = ajaxFormPOST('/data/ajax/submit_data.php', '#suggest_form');
-	ajaxGET('/data/views/show_data.php', 'main_container');
+	var msg = emerge.ajax_form_post('/data/ajax/submit_data.php', '#suggest_form');
+	emerge.ajax_get('/data/views/show_data.php', 'main_container');
 	$('#left_container').empty();
 	alert("Thank you for the submission! Check back soon, we are monitoring for approvals");
 }
@@ -119,7 +120,7 @@ function submit_data(type) {
 		<td>&nbsp;</td>
 		<td>
 			<button onClick="submit_data('<?=$action_type;?>'); return false;"><?=$action['name'];?></button>
-			<button onClick="ajaxGET('views/show_data.php', 'main_content'); return false;">Cancel</button>
+			<button onClick="emerge.ajax_get('views/show_data.php', 'main_content'); return false;">Cancel</button>
 		</td>
 	   </tr>
 	  </table>

@@ -5,12 +5,12 @@ function approve_item(id) {
 	if(aStat == 'Reject') {
 		// Do Reject
 		updateOneField('dataSets', id, 'suggested', '0');
-		ajaxGET('main.php', 'main_container');
+		emerge.ajax_get('main.php', 'main_container');
 	} else if (aStat == 'Approve') {
 		// Do Approve
 		updateOneField('dataSets', id, 'suggested', '1');
 		updateOneField('dataSets', id, 'approved_date', 'NOW()');
-		ajaxGET('main.php', 'main_container');
+		emerge.ajax_get('main.php', 'main_container');
 	}
 }
 function edit_item(id) {
@@ -24,7 +24,7 @@ function del_item(id) {
 		buttons: {
 		  "Yes": function() {
 			deleteRow('dataSets', id);
-			ajaxGET('main.php', 'main_container');
+			emerge.ajax_get('main.php', 'main_container');
 			$(this).dialog("close");
 		  },
 		  "No": function() {

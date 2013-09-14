@@ -1,49 +1,34 @@
 // html request. My standard.
-function ajaxGET(url, outDiv) {
-  console.log('AJAX->GET: '+url+' => '+outDiv);
-  var retVal;
-  $.ajax({
-    url: url,
-    type: 'GET',
-    async: false,
-    success: function(data, stat, jqXHR) {
-      $('#' + outDiv).html(data);
-      retVal = data;
-    }
-  });
-  return retVal;
+$(function() {
+  /* Prepare Search
+   * ============== */
+	$('#search_term').keypress(function (e) {
+		if(e.which == 13) {
+			e.preventDefault();
+			doSearch();
+			$('#search_term').val('');
+		}
+	});
+  /* Initial Gets
+   * ============ */
+	emerge.ajax_get('views/show_data.php', 'main_container');
+});
+function showForm() {
+	emerge.ajax_get('views/suggest_form.php', 'main_container');
+	emerge.ajax_get('views/help/suggest_help.html', 'left_container');
+	// Init tinyMCE
+	tinymce.init({
+		menubar: false,
+		statusbar: false,
+		rows: '5',
+		cols: '2',
+		selector: "textarea"
+	});
 }
 
-function ajaxPOST(url, uri) {
-  console.log('AJAX->POST: '+url);
-  var retVal;
-  $.ajax({
-    url: url,
-    data: uri,
-    type: 'POST',
-    async: false,
-    success: function(data, stat, jqXHR) {
-      retVal = data;
-    }
-  });
-  return retVal;
-}
-
-function ajaxFormPOST(url, e) {
-  console.log('AJAX->FORM::POST: '+url);
-  var uri = encodeURI($(e).serialize());
-  console.log(uri);
-  var retVal;
-  $.ajax({
-    url: url,
-    data: uri,
-    type: 'POST',
-    async: false,
-    success: function(data, stat, jqXHR) {
-      retVal = data;
-    }
-  });
-  return retVal;
+function doSearch() {
+	var search_term = $('#search_term').val();
+	emerge.ajax_get('views/show_data.php?search=' + search_term, 'main_container');
 }
 
 // Utility Dialog
@@ -53,7 +38,7 @@ function genericDialog(title, url) {
 		id: 'utilDialog'
 	});
 
-  var data = ajaxGET(url);
+  var data = emerge.ajax_get(url);
 	formBody.html(data);
 	formBody.dialog({
 		height: 400,
