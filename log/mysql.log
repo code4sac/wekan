@@ -5346,3 +5346,1783 @@
 2013-09-13 07:02:02:   getRows(dataSets): 3 rows returned
 2013-09-13 07:02:05:   SANITIZE: (id)
 2013-09-13 07:02:05:   getRows(dataSets WHERE id = '52'): 1 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 8 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 2 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 13 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 4 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 2 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 8 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 1 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 11 rows returned
+2013-09-13 07:05:14:   getRows(dataSets): 3 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 8 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 2 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 13 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 4 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 2 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 8 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 1 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 11 rows returned
+2013-09-13 07:08:00:   getRows(dataSets): 3 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 8 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 2 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 13 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 4 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 2 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 8 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 1 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 11 rows returned
+2013-09-13 07:08:25:   getRows(dataSets): 3 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 8 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 2 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 13 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 4 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 2 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 8 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 1 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 11 rows returned
+2013-09-13 07:09:23:   getRows(dataSets): 3 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 8 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 2 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 13 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 4 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 2 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 8 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 1 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 11 rows returned
+2013-09-13 07:09:31:   getRows(dataSets): 3 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 8 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 2 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 13 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 4 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 2 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 8 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 1 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 11 rows returned
+2013-09-13 07:10:02:   getRows(dataSets): 3 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 8 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 2 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 13 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 4 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 2 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 8 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 1 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 11 rows returned
+2013-09-13 07:10:19:   getRows(dataSets): 3 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 8 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 2 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 13 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 4 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 2 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 8 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 1 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 11 rows returned
+2013-09-13 07:10:22:   getRows(dataSets): 3 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 8 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 2 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 13 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 4 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 2 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 8 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 1 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 11 rows returned
+2013-09-13 07:11:05:   getRows(dataSets): 3 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 8 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 2 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 13 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 4 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 2 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 8 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 1 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 11 rows returned
+2013-09-13 07:11:08:   getRows(dataSets): 3 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 8 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 2 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 13 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 4 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 2 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 8 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 1 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 11 rows returned
+2013-09-13 07:13:28:   getRows(dataSets): 3 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 13 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 4 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 1 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 11 rows returned
+2013-09-13 07:14:25:   getRows(dataSets): 3 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 13 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 4 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 1 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 11 rows returned
+2013-09-13 07:14:27:   getRows(dataSets): 3 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 13 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 4 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 1 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 11 rows returned
+2013-09-13 07:14:36:   getRows(dataSets): 3 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 13 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 4 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 1 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 11 rows returned
+2013-09-13 07:14:44:   getRows(dataSets): 3 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 13 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 4 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 2 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 8 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 1 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 11 rows returned
+2013-09-13 07:14:58:   getRows(dataSets): 3 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 8 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 2 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 13 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 4 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 2 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 8 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 1 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 11 rows returned
+2013-09-13 07:15:03:   getRows(dataSets): 3 rows returned
+2013-09-13 07:15:09:   SANITIZE: (id)
+2013-09-13 07:15:09:   getRows(dataSets WHERE id = '51'): 1 rows returned
+2013-09-13 07:15:38:   SANITIZE: (id)
+2013-09-13 07:15:38:   getRows(dataSets WHERE id = '46'): 1 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 8 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 2 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 13 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 4 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 2 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 8 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 1 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 11 rows returned
+2013-09-13 07:16:58:   getRows(dataSets): 3 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 8 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 2 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 13 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 4 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 2 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 8 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 1 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 11 rows returned
+2013-09-13 07:19:22:   getRows(dataSets): 3 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 8 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 2 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 13 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 4 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 2 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 8 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 1 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 11 rows returned
+2013-09-13 07:19:46:   getRows(dataSets): 3 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 8 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 2 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 13 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 4 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 2 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 8 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 1 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 11 rows returned
+2013-09-14 07:04:51:   getRows(dataSets): 3 rows returned
+2013-09-14 07:05:04:   SANITIZE: (id)
+2013-09-14 07:05:04:   getRows(dataSets WHERE id = '1'): 1 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 8 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 2 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 13 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 4 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 2 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 8 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 1 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 11 rows returned
+2013-09-14 07:11:06:   getRows(dataSets): 3 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 8 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 2 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 13 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 4 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 2 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 8 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 1 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 11 rows returned
+2013-09-14 07:11:40:   getRows(dataSets): 3 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 8 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 2 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 13 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 4 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 2 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 8 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 1 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 11 rows returned
+2013-09-14 07:11:56:   getRows(dataSets): 3 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 8 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 2 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 13 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 4 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 2 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 8 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 1 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 11 rows returned
+2013-09-14 07:13:45:   getRows(dataSets): 3 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 8 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 2 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 13 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 4 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 2 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 8 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 1 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 11 rows returned
+2013-09-14 07:15:59:   getRows(dataSets): 3 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 8 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 2 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 13 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 4 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 2 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 8 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 1 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 11 rows returned
+2013-09-14 07:16:50:   getRows(dataSets): 3 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 8 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 2 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 13 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 4 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 2 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 8 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 1 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 11 rows returned
+2013-09-14 07:18:04:   getRows(dataSets): 3 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 8 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 2 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 13 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 4 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 2 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 8 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 1 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 11 rows returned
+2013-09-14 07:18:47:   getRows(dataSets): 3 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 8 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 2 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 13 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 4 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 2 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 8 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 1 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 11 rows returned
+2013-09-14 07:19:23:   getRows(dataSets): 3 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 8 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 2 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 13 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 4 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 2 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 8 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 1 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 11 rows returned
+2013-09-14 07:19:40:   getRows(dataSets): 3 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 8 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 2 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 13 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 4 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 2 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 8 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 1 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 11 rows returned
+2013-09-14 07:20:43:   getRows(dataSets): 3 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 8 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 2 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 13 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 4 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 2 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 8 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 1 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 11 rows returned
+2013-09-14 07:20:59:   getRows(dataSets): 3 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 8 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 2 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 13 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 4 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 2 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 8 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 1 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 11 rows returned
+2013-09-14 07:21:18:   getRows(dataSets): 3 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 8 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 2 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 13 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 4 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 2 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 8 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 1 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 11 rows returned
+2013-09-14 07:22:54:   getRows(dataSets): 3 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 8 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 2 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 13 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 4 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 2 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 8 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 1 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 11 rows returned
+2013-09-14 07:24:33:   getRows(dataSets): 3 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 8 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 2 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 13 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 4 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 2 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 8 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 1 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 11 rows returned
+2013-09-14 07:25:38:   getRows(dataSets): 3 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 8 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 2 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 13 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 4 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 2 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 8 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 1 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 11 rows returned
+2013-09-14 07:27:24:   getRows(dataSets): 3 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 8 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 2 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 13 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 4 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 2 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 8 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 1 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 11 rows returned
+2013-09-14 07:29:12:   getRows(dataSets): 3 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 8 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 2 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 13 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 4 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 2 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 8 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 1 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 11 rows returned
+2013-09-14 07:30:25:   getRows(dataSets): 3 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 8 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 2 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 13 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 4 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 2 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 8 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 1 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 11 rows returned
+2013-09-14 07:30:42:   getRows(dataSets): 3 rows returned
+2013-09-14 07:32:14:   getRows(dataSets): 0 rows returned
+2013-09-14 07:32:32:   getRows(dataSets): 37 rows returned
+2013-09-14 07:32:55:   getRows(dataSets): 37 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 8 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 2 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 13 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 4 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 2 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 8 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 1 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 11 rows returned
+2013-09-14 07:36:06:   getRows(dataSets): 3 rows returned
+2013-09-14 07:36:07:   getRows(dataSets): 37 rows returned
+2013-09-14 07:36:30:   getRows(dataSets): 37 rows returned
+2013-09-14 07:37:24:   getRows(dataSets): 37 rows returned
+2013-09-14 07:39:14:   getRows(dataSets): 37 rows returned
+2013-09-14 07:39:55:   getRows(dataSets): 37 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 8 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 2 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 13 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 4 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 2 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 8 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 1 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 11 rows returned
+2013-09-14 07:40:26:   getRows(dataSets): 3 rows returned
+2013-09-14 07:40:27:   getRows(dataSets): 37 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 8 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 2 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 13 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 4 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 2 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 8 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 1 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 11 rows returned
+2013-09-14 07:42:11:   getRows(dataSets): 3 rows returned
+2013-09-14 07:42:12:   getRows(dataSets): 37 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 8 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 2 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 13 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 4 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 2 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 8 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 1 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 11 rows returned
+2013-09-14 07:42:37:   getRows(dataSets): 3 rows returned
+2013-09-14 07:42:39:   getRows(dataSets): 37 rows returned
+2013-09-14 07:43:15:   getRows(dataSets): 37 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 8 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 2 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 13 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 4 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 2 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 8 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 1 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 11 rows returned
+2013-09-14 07:46:22:   getRows(dataSets): 3 rows returned
+2013-09-14 07:46:23:   getRows(dataSets): 37 rows returned
+2013-09-14 07:53:34:   getRows(dataSets): 37 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 8 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 2 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 13 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 4 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 2 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 8 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 1 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 11 rows returned
+2013-09-14 07:53:47:   getRows(dataSets): 3 rows returned
+2013-09-14 07:53:48:   getRows(dataSets): 37 rows returned
+2013-09-14 07:57:44:   getRows(dataSets): 37 rows returned
+2013-09-14 07:57:50:   getRows(dataSets): 37 rows returned
+2013-09-14 07:58:29:   getRows(dataSets): 37 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 8 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 2 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 13 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 4 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 2 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 8 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 1 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 11 rows returned
+2013-09-14 07:58:58:   getRows(dataSets): 3 rows returned
+2013-09-14 07:58:59:   getRows(dataSets): 37 rows returned
+2013-09-14 08:00:39:   getRows(dataSets): 37 rows returned
+2013-09-14 08:00:45:   getRows(dataSets): 37 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 8 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 2 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 13 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 4 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 2 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 8 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 1 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 11 rows returned
+2013-09-14 08:00:49:   getRows(dataSets): 3 rows returned
+2013-09-14 08:00:52:   getRows(dataSets): 37 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 8 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 2 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 13 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 4 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 2 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 8 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 1 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 11 rows returned
+2013-09-14 08:01:11:   getRows(dataSets): 3 rows returned
+2013-09-14 08:01:12:   getRows(dataSets): 37 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 8 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 2 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 13 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 4 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 2 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 8 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 1 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 11 rows returned
+2013-09-14 08:05:13:   getRows(dataSets): 3 rows returned
+2013-09-14 08:05:56:   getRows(dataSets): 37 rows returned
+2013-09-14 08:08:59:   getRows(dataSets): 37 rows returned
+2013-09-14 08:10:21:   getRows(dataSets): 37 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 8 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 2 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 13 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 4 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 2 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 8 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 1 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 11 rows returned
+2013-09-14 08:11:37:   getRows(dataSets): 3 rows returned
+2013-09-14 08:11:39:   getRows(dataSets): 37 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 8 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 2 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 13 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 4 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 2 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 8 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 1 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 11 rows returned
+2013-09-14 08:12:21:   getRows(dataSets): 3 rows returned
+2013-09-14 08:12:27:   getRows(dataSets): 37 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 8 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 2 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 13 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 4 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 2 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 8 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 1 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 11 rows returned
+2013-09-14 08:13:19:   getRows(dataSets): 3 rows returned
+2013-09-14 08:13:20:   getRows(dataSets): 37 rows returned
+2013-09-14 08:16:08:   getRows(dataSets): 37 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 8 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 2 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 13 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 4 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 2 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 8 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 1 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 11 rows returned
+2013-09-14 08:16:11:   getRows(dataSets): 3 rows returned
+2013-09-14 08:16:12:   getRows(dataSets): 37 rows returned
+2013-09-14 08:18:22:   SANITIZE: (search)
+2013-09-14 08:18:22:   getRows(dataSets): 8 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 2 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 12 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 3 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 2 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 3 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 1 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 11 rows returned
+2013-09-14 08:18:22:   getRows(dataSets): 3 rows returned
+2013-09-14 08:18:24:   getRows(dataSets): 37 rows returned
+2013-09-14 08:19:55:   getRows(dataSets): 37 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 8 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 2 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 13 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 4 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 2 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 8 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 1 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 11 rows returned
+2013-09-14 08:21:21:   getRows(dataSets): 3 rows returned
+2013-09-14 08:21:22:   getRows(dataSets): 37 rows returned
+2013-09-14 08:21:55:   getRows(dataSets): 37 rows returned
+2013-09-14 08:23:38:   getRows(dataSets): 37 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 8 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 2 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 13 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 4 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 2 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 8 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 1 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 11 rows returned
+2013-09-14 08:24:20:   getRows(dataSets): 3 rows returned
+2013-09-14 08:24:22:   getRows(dataSets): 37 rows returned
+2013-09-14 08:25:00:   getRows(dataSets): 37 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 8 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 2 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 13 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 4 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 2 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 8 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 1 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 11 rows returned
+2013-09-14 08:27:19:   getRows(dataSets): 3 rows returned
+2013-09-14 08:27:21:   getRows(dataSets): 37 rows returned
+2013-09-14 08:29:26:   getRows(dataSets): 37 rows returned
+2013-09-14 08:30:26:   getRows(dataSets): 37 rows returned
+2013-09-14 08:31:20:   getRows(dataSets): 37 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 8 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 2 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 13 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 4 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 2 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 8 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 1 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 11 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 3 rows returned
+2013-09-14 08:34:50:   getRows(dataSets): 37 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 8 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 2 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 13 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 4 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 2 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 8 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 1 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 11 rows returned
+2013-09-14 10:20:57:   getRows(dataSets): 3 rows returned
+2013-09-14 10:20:58:   getRows(dataSets): 37 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 8 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 2 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 13 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 4 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 2 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 8 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 1 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 11 rows returned
+2013-09-14 10:22:11:   getRows(dataSets): 3 rows returned
+2013-09-14 10:22:12:   getRows(dataSets): 37 rows returned
+2013-09-14 10:23:08:   getRows(dataSets): 37 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 8 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 2 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 13 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 4 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 2 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 8 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 1 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 11 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 3 rows returned
+2013-09-14 10:23:33:   getRows(dataSets): 37 rows returned
+2013-09-14 10:24:26:   getRows(dataSets): 37 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 8 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 2 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 13 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 4 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 2 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 8 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 1 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 11 rows returned
+2013-09-14 10:25:11:   getRows(dataSets): 3 rows returned
+2013-09-14 10:25:12:   getRows(dataSets): 37 rows returned
+2013-09-14 10:26:10:   getRows(dataSets): 37 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 8 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 2 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 13 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 4 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 2 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 8 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 1 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 11 rows returned
+2013-09-14 10:26:23:   getRows(dataSets): 3 rows returned
+2013-09-14 10:26:25:   getRows(dataSets): 37 rows returned
+2013-09-14 10:26:49:   getRows(dataSets): 37 rows returned
+2013-09-14 10:27:10:   getRows(dataSets): 37 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 8 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 2 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 13 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 4 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 2 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 8 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 1 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 11 rows returned
+2013-09-14 10:28:15:   getRows(dataSets): 3 rows returned
+2013-09-14 10:28:16:   getRows(dataSets): 37 rows returned
+2013-09-14 10:28:47:   getRows(dataSets): 37 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 8 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 2 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 13 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 4 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 2 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 8 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 1 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 11 rows returned
+2013-09-14 10:30:16:   getRows(dataSets): 3 rows returned
+2013-09-14 10:30:17:   getRows(dataSets): 37 rows returned
+2013-09-14 10:34:48:   getRows(dataSets): 37 rows returned
+2013-09-14 10:35:08:   getRows(dataSets): 37 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 8 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 2 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 13 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 4 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 2 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 8 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 1 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 11 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 3 rows returned
+2013-09-14 10:37:07:   getRows(dataSets): 37 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 8 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 2 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 13 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 4 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 2 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 8 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 1 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 11 rows returned
+2013-09-14 10:38:27:   getRows(dataSets): 3 rows returned
+2013-09-14 10:38:28:   getRows(dataSets): 37 rows returned
+2013-09-14 10:38:45:   getRows(dataSets): 37 rows returned
+2013-09-14 10:39:51:   getRows(dataSets): 37 rows returned
+2013-09-14 10:40:09:   getRows(dataSets): 37 rows returned
+2013-09-14 10:40:46:   getRows(dataSets): 37 rows returned
+2013-09-14 10:43:21:   getRows(dataSets): 37 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 8 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 2 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 13 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 4 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 2 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 8 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 1 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 11 rows returned
+2013-09-14 10:43:26:   getRows(dataSets): 3 rows returned
+2013-09-14 10:43:27:   getRows(dataSets): 37 rows returned
+2013-09-14 10:44:20:   getRows(dataSets): 37 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 8 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 2 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 13 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 4 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 2 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 8 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 1 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 11 rows returned
+2013-09-14 10:44:37:   getRows(dataSets): 3 rows returned
+2013-09-14 10:44:39:   getRows(dataSets): 37 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 8 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 2 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 13 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 4 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 2 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 8 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 1 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 11 rows returned
+2013-09-14 10:45:49:   getRows(dataSets): 3 rows returned
+2013-09-14 10:45:50:   getRows(dataSets): 37 rows returned
+2013-09-14 10:46:07:   getRows(dataSets): 37 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 8 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 2 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 13 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 4 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 2 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 8 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 1 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 11 rows returned
+2013-09-14 10:46:50:   getRows(dataSets): 3 rows returned
+2013-09-14 10:46:51:   getRows(dataSets): 37 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 8 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 2 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 13 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 4 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 2 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 8 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 1 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 11 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 3 rows returned
+2013-09-14 10:48:18:   getRows(dataSets): 37 rows returned
+2013-09-14 10:49:15:   getRows(dataSets): 37 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 8 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 2 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 13 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 4 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 2 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 8 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 1 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 11 rows returned
+2013-09-14 10:49:22:   getRows(dataSets): 3 rows returned
+2013-09-14 10:49:23:   getRows(dataSets): 37 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 8 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 2 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 13 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 4 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 2 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 8 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 1 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 11 rows returned
+2013-09-14 10:50:33:   getRows(dataSets): 3 rows returned
+2013-09-14 10:50:34:   getRows(dataSets): 37 rows returned
+2013-09-14 10:50:56:   getRows(dataSets): 37 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 8 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 2 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 13 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 4 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 2 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 8 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 1 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 11 rows returned
+2013-09-14 10:52:15:   getRows(dataSets): 3 rows returned
+2013-09-14 10:52:16:   getRows(dataSets): 37 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 8 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 2 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 13 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 4 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 2 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 8 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 1 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 11 rows returned
+2013-09-14 10:52:36:   getRows(dataSets): 3 rows returned
+2013-09-14 10:53:22:   getRows(dataSets): 37 rows returned
+2013-09-14 10:53:38:   getRows(dataSets): 37 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 8 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 2 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 13 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 4 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 2 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 8 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 1 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 11 rows returned
+2013-09-14 10:54:13:   getRows(dataSets): 3 rows returned
+2013-09-14 10:54:15:   getRows(dataSets): 37 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 8 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 2 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 13 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 4 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 2 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 8 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 1 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 11 rows returned
+2013-09-14 10:55:05:   getRows(dataSets): 3 rows returned
+2013-09-14 10:55:06:   getRows(dataSets): 37 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 8 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 2 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 13 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 4 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 2 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 8 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 1 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 11 rows returned
+2013-09-14 10:55:25:   getRows(dataSets): 3 rows returned
+2013-09-14 10:55:27:   getRows(dataSets): 37 rows returned
+2013-09-14 10:55:51:   getRows(dataSets): 37 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 8 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 2 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 13 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 4 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 2 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 8 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 1 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 11 rows returned
+2013-09-14 10:56:17:   getRows(dataSets): 3 rows returned
+2013-09-14 10:56:18:   getRows(dataSets): 37 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 8 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 2 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 13 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 4 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 2 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 8 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 1 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 11 rows returned
+2013-09-14 10:58:39:   getRows(dataSets): 3 rows returned
+2013-09-14 10:58:40:   getRows(dataSets): 37 rows returned
+2013-09-14 10:59:04:   getRows(dataSets): 37 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 8 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 2 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 13 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 4 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 2 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 8 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 1 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 11 rows returned
+2013-09-14 10:59:25:   getRows(dataSets): 3 rows returned
+2013-09-14 10:59:26:   getRows(dataSets): 37 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 8 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 2 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 13 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 4 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 2 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 8 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 1 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 11 rows returned
+2013-09-14 11:00:12:   getRows(dataSets): 3 rows returned
+2013-09-14 11:00:13:   getRows(dataSets): 37 rows returned
+2013-09-14 11:00:54:   getRows(dataSets): 37 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 8 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 2 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 13 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 4 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 2 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 8 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 1 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 11 rows returned
+2013-09-14 11:01:33:   getRows(dataSets): 3 rows returned
+2013-09-14 11:01:34:   getRows(dataSets): 37 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 8 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 2 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 13 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 4 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 2 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 8 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 1 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 11 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 3 rows returned
+2013-09-14 11:02:10:   getRows(dataSets): 37 rows returned
+2013-09-14 11:02:22:   getRows(dataSets): 37 rows returned
+2013-09-14 11:02:37:   getRows(dataSets): 37 rows returned
+2013-09-14 11:03:35:   getRows(dataSets): 37 rows returned
+2013-09-14 11:03:47:   getRows(dataSets): 37 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 8 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 2 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 13 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 4 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 2 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 8 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 1 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 11 rows returned
+2013-09-14 11:05:56:   getRows(dataSets): 3 rows returned
+2013-09-14 11:05:59:   getRows(dataSets): 37 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 8 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 2 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 13 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 4 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 2 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 8 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 1 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 11 rows returned
+2013-09-14 12:30:33:   getRows(dataSets): 3 rows returned
+2013-09-14 12:30:49:   getRows(categories): 14 rows returned
+2013-09-14 12:33:40:   getRows(categories): 14 rows returned
+2013-09-14 12:34:31:   getRows(categories): 14 rows returned
+2013-09-14 12:40:52:   getRows(categories): 14 rows returned
+2013-09-14 12:44:04:   getRows(categories): 14 rows returned
+2013-09-14 12:46:39:   getRows(categories): 14 rows returned
+2013-09-14 12:46:58:   getRows(categories): 14 rows returned
+2013-09-14 12:47:34:   getRows(categories): 14 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 8 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 2 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 13 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 4 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 2 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 8 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 1 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 11 rows returned
+2013-09-14 12:48:22:   getRows(dataSets): 3 rows returned
+2013-09-14 12:48:24:   SANITIZE: (id)
+2013-09-14 12:48:24:   getRows(dataSets WHERE id = '53'): 1 rows returned
+2013-09-14 12:50:01:   getRows(categories): 14 rows returned
+2013-09-14 12:50:18:   getRows(categories): 14 rows returned
+2013-09-14 12:52:29:   getRows(categories): 14 rows returned
+2013-09-14 12:53:31:   getRows(categories): 14 rows returned
+2013-09-14 12:54:22:   getRows(categories): 14 rows returned
+2013-09-14 12:54:39:   getRows(categories): 14 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 8 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 2 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 13 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 4 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 2 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 8 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 1 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 11 rows returned
+2013-09-14 12:54:40:   getRows(dataSets): 3 rows returned
+2013-09-14 12:54:41:   getRows(categories): 14 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 8 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 2 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 13 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 4 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 2 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 8 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 1 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 11 rows returned
+2013-09-14 12:55:04:   getRows(dataSets): 3 rows returned
+2013-09-14 12:55:04:   getRows(categories): 14 rows returned
+2013-09-14 12:56:26:   getRows(categories): 14 rows returned
+2013-09-14 12:56:46:   getRows(categories): 14 rows returned
+2013-09-14 12:57:30:   getRows(categories): 14 rows returned
+2013-09-14 12:59:37:   getRows(categories): 14 rows returned
+2013-09-14 01:00:36:   getRows(categories): 14 rows returned
+2013-09-14 01:02:15:   getRows(categories): 14 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 8 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 2 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 13 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 4 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 2 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 8 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 1 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 11 rows returned
+2013-09-14 01:02:23:   getRows(dataSets): 3 rows returned
+2013-09-14 01:02:24:   getRows(categories): 14 rows returned
+2013-09-14 01:04:34:   getRows(categories): 14 rows returned
+2013-09-14 01:08:22:   getRows(categories): 14 rows returned
+2013-09-14 01:08:42:   getRows(categories): 14 rows returned
+2013-09-14 01:10:23:   getRows(categories): 14 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 8 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 2 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 13 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 4 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 2 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 8 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 1 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 11 rows returned
+2013-09-14 01:12:36:   getRows(dataSets): 3 rows returned
+2013-09-14 01:13:19:   getRows(categories): 14 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 8 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 2 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 13 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 4 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 2 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 8 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 1 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 11 rows returned
+2013-09-14 01:13:22:   getRows(dataSets): 3 rows returned
+2013-09-14 08:32:07:   getRows(categories): 14 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 8 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 2 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 13 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 4 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 2 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 8 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 1 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 11 rows returned
+2013-09-14 08:32:11:   getRows(dataSets): 3 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 8 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 2 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 13 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 4 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 2 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 8 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 1 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 11 rows returned
+2013-09-14 08:33:13:   getRows(dataSets): 3 rows returned
+2013-09-14 08:33:15:   getRows(categories): 14 rows returned
+2013-09-14 08:33:34:   getRows(categories): 14 rows returned
+2013-09-14 08:34:30:   getRows(categories): 14 rows returned
+2013-09-14 08:34:57:   getRows(categories): 14 rows returned
+2013-09-14 08:34:59:   SANITIZE: (sugg_by)
+2013-09-14 08:34:59:   SANITIZE: (title)
+2013-09-14 08:34:59:   SANITIZE: (publisher)
+2013-09-14 08:34:59:   SANITIZE: (publisher_source)
+2013-09-14 08:34:59:   SANITIZE: (link)
+2013-09-14 08:34:59:   SANITIZE: (type)
+2013-09-14 08:34:59:   SANITIZE: (cat)
+2013-09-14 08:34:59:   SANITIZE: (tmDesc)
+2013-09-14 08:34:59:   SANITIZE: (tags)
+2013-09-14 08:34:59:   SANITIZE: (action)
+2013-09-14 08:34:59:   SANITIZE: (id)
+2013-09-14 08:34:59:   SANITIZE: (desc)
+2013-09-14 08:35:35:   SANITIZE: (sugg_by)
+2013-09-14 08:35:35:   SANITIZE: (title)
+2013-09-14 08:35:35:   SANITIZE: (publisher)
+2013-09-14 08:35:35:   SANITIZE: (publisher_source)
+2013-09-14 08:35:35:   SANITIZE: (link)
+2013-09-14 08:35:35:   SANITIZE: (type)
+2013-09-14 08:35:35:   SANITIZE: (cat)
+2013-09-14 08:35:35:   SANITIZE: (tmDesc)
+2013-09-14 08:35:35:   SANITIZE: (tags)
+2013-09-14 08:35:35:   SANITIZE: (action)
+2013-09-14 08:35:35:   SANITIZE: (id)
+2013-09-14 08:35:35:   SANITIZE: (desc)
+2013-09-14 08:35:47:   SANITIZE: (sugg_by)
+2013-09-14 08:35:47:   SANITIZE: (title)
+2013-09-14 08:35:47:   SANITIZE: (publisher)
+2013-09-14 08:35:47:   SANITIZE: (publisher_source)
+2013-09-14 08:35:47:   SANITIZE: (link)
+2013-09-14 08:35:47:   SANITIZE: (type)
+2013-09-14 08:35:47:   SANITIZE: (cat)
+2013-09-14 08:35:47:   SANITIZE: (tmDesc)
+2013-09-14 08:35:47:   SANITIZE: (tags)
+2013-09-14 08:35:47:   SANITIZE: (action)
+2013-09-14 08:35:47:   SANITIZE: (id)
+2013-09-14 08:35:47:   SANITIZE: (desc)
+2013-09-14 08:50:04:   getRows(categories): 14 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 8 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 2 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 13 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 4 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 2 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 8 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 1 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 11 rows returned
+2013-09-14 08:50:07:   getRows(dataSets): 3 rows returned
+2013-09-14 08:50:09:   getRows(categories): 14 rows returned
+2013-09-14 08:50:46:   SANITIZE: (search)
+2013-09-14 08:50:46:   getRows(dataSets): 8 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 2 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 13 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 4 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 2 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 8 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 1 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 11 rows returned
+2013-09-14 08:50:46:   getRows(dataSets): 3 rows returned
+2013-09-14 08:50:52:   getRows(categories): 14 rows returned
+2013-09-14 09:29:55:   getRows(organization): 2 rows returned
+2013-09-14 09:29:55:   getRows(categories): 14 rows returned
+2013-09-14 09:30:37:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:30:37:   getRows(categories): 14 rows returned
+2013-09-14 09:31:09:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:31:09:   getRows(categories): 14 rows returned
+2013-09-14 09:34:05:   getRows(categories): 14 rows returned
+2013-09-14 09:34:05:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:34:07:   getRows(categories): 14 rows returned
+2013-09-14 09:34:07:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 8 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 2 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 13 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 4 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 2 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 8 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 1 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 11 rows returned
+2013-09-14 09:34:11:   getRows(dataSets): 3 rows returned
+2013-09-14 09:34:12:   getRows(categories): 14 rows returned
+2013-09-14 09:34:12:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:35:18:   getRows(categories): 14 rows returned
+2013-09-14 09:35:18:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 8 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 2 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 13 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 4 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 2 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 8 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 1 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 11 rows returned
+2013-09-14 09:35:20:   getRows(dataSets): 3 rows returned
+2013-09-14 09:35:22:   getRows(categories): 14 rows returned
+2013-09-14 09:35:22:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:35:37:   getRows(categories): 14 rows returned
+2013-09-14 09:35:37:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:35:41:   getRows(categories): 14 rows returned
+2013-09-14 09:35:41:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:36:48:   getRows(categories): 14 rows returned
+2013-09-14 09:36:48:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 8 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 2 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 13 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 4 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 2 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 8 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 1 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 11 rows returned
+2013-09-14 09:36:52:   getRows(dataSets): 3 rows returned
+2013-09-14 09:36:53:   getRows(categories): 14 rows returned
+2013-09-14 09:36:53:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:37:01:   getRows(categories): 14 rows returned
+2013-09-14 09:37:01:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 8 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 2 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 13 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 4 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 2 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 8 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 1 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 11 rows returned
+2013-09-14 09:40:20:   getRows(dataSets): 3 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 8 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 2 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 13 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 4 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 2 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 8 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 1 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 11 rows returned
+2013-09-14 09:43:29:   getRows(dataSets): 3 rows returned
+2013-09-14 09:43:30:   getRows(categories): 14 rows returned
+2013-09-14 09:43:30:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:44:30:   getRows(categories): 14 rows returned
+2013-09-14 09:44:30:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:45:02:   getRows(categories): 14 rows returned
+2013-09-14 09:45:02:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:45:06:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:45:12:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:45:59:   getRows(categories): 14 rows returned
+2013-09-14 09:45:59:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 8 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 2 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 13 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 4 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 2 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 8 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 1 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 11 rows returned
+2013-09-14 09:46:04:   getRows(dataSets): 3 rows returned
+2013-09-14 09:46:04:   getRows(categories): 14 rows returned
+2013-09-14 09:46:04:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:46:11:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 09:52:44:   getRows(categories): 14 rows returned
+2013-09-14 09:52:44:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 8 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 2 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 13 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 4 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 2 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 8 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 1 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 11 rows returned
+2013-09-14 10:10:22:   getRows(dataSets): 3 rows returned
+2013-09-14 10:10:23:   getRows(categories): 14 rows returned
+2013-09-14 10:10:23:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-14 10:11:53:   SANITIZE: (author_name)
+2013-09-14 10:11:53:   SANITIZE: (author_email)
+2013-09-14 10:11:53:   SANITIZE: (organization)
+2013-09-14 10:11:53:   SANITIZE: (publisher_source)
+2013-09-14 10:11:53:   SANITIZE: (title)
+2013-09-14 10:11:53:   SANITIZE: (link)
+2013-09-14 10:11:53:   SANITIZE: (type)
+2013-09-14 10:11:53:   SANITIZE: (map_data)
+2013-09-14 10:11:53:   SANITIZE: (cat)
+2013-09-14 10:11:53:   SANITIZE: (tmDesc)
+2013-09-14 10:11:53:   SANITIZE: (tags)
+2013-09-14 10:11:53:   SANITIZE: (action)
+2013-09-14 10:11:53:   SANITIZE: (id)
+2013-09-14 10:11:53:   SANITIZE: (desc)
+2013-09-14 10:11:53:   Insert(dataSets): id => 68
+2013-09-14 10:12:25:   getRows(dataSets): 8 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 2 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 13 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 5 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 2 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 8 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 1 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 11 rows returned
+2013-09-14 10:12:25:   getRows(dataSets): 3 rows returned
+2013-09-14 10:12:30:   SANITIZE: (id)
+2013-09-14 10:12:30:   getRows(dataSets WHERE id = '68'): 1 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 8 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 2 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 13 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 5 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 2 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 8 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 1 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 11 rows returned
+2013-09-14 10:17:02:   getRows(dataSets): 3 rows returned
+2013-09-14 10:17:24:   SANITIZE: (id)
+2013-09-14 10:17:24:   ERROR (1052) Column 'id' in where clause is ambiguous
+2013-09-14 10:17:48:   SANITIZE: (id)
+2013-09-14 10:17:48:   getRows(dataSets): 1 rows returned
+2013-09-14 10:18:01:   SANITIZE: (id)
+2013-09-14 10:18:01:   getRows(dataSets): 1 rows returned
+2013-09-14 10:18:43:   SANITIZE: (id)
+2013-09-14 10:18:43:   getRows(dataSets): 1 rows returned
+2013-09-14 10:19:55:   SANITIZE: (id)
+2013-09-14 10:19:55:   getRows(dataSets): 1 rows returned
+2013-09-14 10:20:13:   SANITIZE: (id)
+2013-09-14 10:20:13:   getRows(dataSets): 1 rows returned
+2013-09-14 10:22:13:   SANITIZE: (id)
+2013-09-14 10:22:13:   getRows(dataSets): 1 rows returned
+2013-09-14 10:23:21:   SANITIZE: (id)
+2013-09-14 10:23:21:   getRows(dataSets): 1 rows returned
+2013-09-14 10:23:28:   SANITIZE: (id)
+2013-09-14 10:23:28:   getRows(dataSets): 1 rows returned
+2013-09-14 10:23:44:   SANITIZE: (id)
+2013-09-14 10:23:44:   getRows(dataSets): 1 rows returned
+2013-09-14 10:24:13:   SANITIZE: (id)
+2013-09-14 10:24:13:   getRows(dataSets): 1 rows returned
+2013-09-14 10:24:32:   SANITIZE: (id)
+2013-09-14 10:24:32:   getRows(dataSets): 1 rows returned
+2013-09-15 06:32:05:   getRows(dataSets): 36 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 8 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 2 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 13 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 5 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 2 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 8 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 1 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 11 rows returned
+2013-09-15 06:32:40:   getRows(dataSets): 3 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 8 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 2 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 13 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 5 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 2 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 8 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 1 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 11 rows returned
+2013-09-15 06:32:42:   getRows(dataSets): 3 rows returned
+2013-09-15 06:34:19:   SANITIZE: (id)
+2013-09-15 06:34:19:   getRows(dataSets): 1 rows returned
+2013-09-15 06:34:30:   SANITIZE: (id)
+2013-09-15 06:34:30:   getRows(dataSets): 1 rows returned
+2013-09-15 06:35:14:   SANITIZE: (id)
+2013-09-15 06:35:14:   getRows(dataSets): 1 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 8 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 2 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 13 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 5 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 2 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 8 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 1 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 11 rows returned
+2013-09-15 06:37:09:   getRows(dataSets): 3 rows returned
+2013-09-15 06:37:10:   getRows(categories): 14 rows returned
+2013-09-15 06:37:10:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 06:37:18:   SANITIZE: (author_name)
+2013-09-15 06:37:18:   SANITIZE: (author_email)
+2013-09-15 06:37:18:   SANITIZE: (organization)
+2013-09-15 06:37:18:   SANITIZE: (publisher_source)
+2013-09-15 06:37:18:   SANITIZE: (title)
+2013-09-15 06:37:18:   SANITIZE: (link)
+2013-09-15 06:37:18:   SANITIZE: (type)
+2013-09-15 06:37:18:   SANITIZE: (cat)
+2013-09-15 06:37:18:   SANITIZE: (tmDesc)
+2013-09-15 06:37:18:   SANITIZE: (tags)
+2013-09-15 06:37:18:   SANITIZE: (action)
+2013-09-15 06:37:18:   SANITIZE: (id)
+2013-09-15 06:37:18:   SANITIZE: (desc)
+2013-09-15 06:37:18:   Insert(dataSets): id => 69
+2013-09-15 06:46:42:   getRows(dataSets): 8 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 2 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 13 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 5 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 2 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 8 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 1 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 11 rows returned
+2013-09-15 06:46:42:   getRows(dataSets): 3 rows returned
+2013-09-15 06:48:00:   getRows(categories): 14 rows returned
+2013-09-15 06:48:01:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 06:48:14:   SANITIZE: (author_name)
+2013-09-15 06:48:14:   SANITIZE: (author_email)
+2013-09-15 06:48:14:   SANITIZE: (organization)
+2013-09-15 06:48:14:   SANITIZE: (publisher_source)
+2013-09-15 06:48:14:   SANITIZE: (title)
+2013-09-15 06:48:14:   SANITIZE: (link)
+2013-09-15 06:48:14:   SANITIZE: (type)
+2013-09-15 06:48:14:   SANITIZE: (cat)
+2013-09-15 06:48:14:   SANITIZE: (tmDesc)
+2013-09-15 06:48:14:   SANITIZE: (tags)
+2013-09-15 06:48:14:   SANITIZE: (action)
+2013-09-15 06:48:14:   SANITIZE: (id)
+2013-09-15 06:48:14:   SANITIZE: (desc)
+2013-09-15 06:48:14:   Insert(dataSets): id => 70
+2013-09-15 06:49:14:   getRows(categories): 14 rows returned
+2013-09-15 06:49:14:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 8 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 2 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 13 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 5 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 2 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 8 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 1 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 11 rows returned
+2013-09-15 06:49:18:   getRows(dataSets): 3 rows returned
+2013-09-15 06:49:20:   getRows(categories): 14 rows returned
+2013-09-15 06:49:20:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 06:49:28:   SANITIZE: (author_name)
+2013-09-15 06:49:28:   SANITIZE: (author_email)
+2013-09-15 06:49:28:   SANITIZE: (organization)
+2013-09-15 06:49:28:   SANITIZE: (publisher_source)
+2013-09-15 06:49:28:   SANITIZE: (title)
+2013-09-15 06:49:28:   SANITIZE: (link)
+2013-09-15 06:49:28:   SANITIZE: (type)
+2013-09-15 06:49:28:   SANITIZE: (cat)
+2013-09-15 06:49:28:   SANITIZE: (tmDesc)
+2013-09-15 06:49:28:   SANITIZE: (tags)
+2013-09-15 06:49:28:   SANITIZE: (action)
+2013-09-15 06:49:28:   SANITIZE: (id)
+2013-09-15 06:49:28:   SANITIZE: (desc)
+2013-09-15 06:49:28:   Insert(dataSets): id => 71
+2013-09-15 06:52:50:   SANITIZE: (author_name)
+2013-09-15 06:52:50:   SANITIZE: (author_email)
+2013-09-15 06:52:50:   SANITIZE: (organization)
+2013-09-15 06:52:50:   SANITIZE: (publisher_source)
+2013-09-15 06:52:50:   SANITIZE: (title)
+2013-09-15 06:52:50:   SANITIZE: (link)
+2013-09-15 06:52:50:   SANITIZE: (type)
+2013-09-15 06:52:50:   SANITIZE: (cat)
+2013-09-15 06:52:50:   SANITIZE: (tmDesc)
+2013-09-15 06:52:50:   SANITIZE: (tags)
+2013-09-15 06:52:50:   SANITIZE: (action)
+2013-09-15 06:52:50:   SANITIZE: (id)
+2013-09-15 06:52:50:   SANITIZE: (desc)
+2013-09-15 06:52:50:   Insert(dataSets): id => 72
+2013-09-15 06:53:10:   SANITIZE: (author_name)
+2013-09-15 06:53:10:   SANITIZE: (author_email)
+2013-09-15 06:53:10:   SANITIZE: (organization)
+2013-09-15 06:53:10:   SANITIZE: (publisher_source)
+2013-09-15 06:53:10:   SANITIZE: (title)
+2013-09-15 06:53:10:   SANITIZE: (link)
+2013-09-15 06:53:10:   SANITIZE: (type)
+2013-09-15 06:53:10:   SANITIZE: (cat)
+2013-09-15 06:53:10:   SANITIZE: (tmDesc)
+2013-09-15 06:53:10:   SANITIZE: (tags)
+2013-09-15 06:53:10:   SANITIZE: (action)
+2013-09-15 06:53:10:   SANITIZE: (id)
+2013-09-15 06:53:10:   SANITIZE: (desc)
+2013-09-15 06:53:10:   Insert(dataSets): id => 73
+2013-09-15 06:53:32:   SANITIZE: (author_name)
+2013-09-15 06:53:32:   SANITIZE: (author_email)
+2013-09-15 06:53:32:   SANITIZE: (organization)
+2013-09-15 06:53:32:   SANITIZE: (publisher_source)
+2013-09-15 06:53:32:   SANITIZE: (title)
+2013-09-15 06:53:32:   SANITIZE: (link)
+2013-09-15 06:53:32:   SANITIZE: (type)
+2013-09-15 06:53:32:   SANITIZE: (cat)
+2013-09-15 06:53:32:   SANITIZE: (tmDesc)
+2013-09-15 06:53:32:   SANITIZE: (tags)
+2013-09-15 06:53:32:   SANITIZE: (action)
+2013-09-15 06:53:32:   SANITIZE: (id)
+2013-09-15 06:53:32:   SANITIZE: (desc)
+2013-09-15 06:53:32:   Insert(dataSets): id => 74
+2013-09-15 06:53:46:   SANITIZE: (author_name)
+2013-09-15 06:53:46:   SANITIZE: (author_email)
+2013-09-15 06:53:46:   SANITIZE: (organization)
+2013-09-15 06:53:46:   SANITIZE: (publisher_source)
+2013-09-15 06:53:46:   SANITIZE: (title)
+2013-09-15 06:53:46:   SANITIZE: (link)
+2013-09-15 06:53:46:   SANITIZE: (type)
+2013-09-15 06:53:46:   SANITIZE: (map_data)
+2013-09-15 06:53:46:   SANITIZE: (cat)
+2013-09-15 06:53:46:   SANITIZE: (tmDesc)
+2013-09-15 06:53:46:   SANITIZE: (tags)
+2013-09-15 06:53:46:   SANITIZE: (action)
+2013-09-15 06:53:46:   SANITIZE: (id)
+2013-09-15 06:53:46:   SANITIZE: (desc)
+2013-09-15 06:53:46:   Insert(dataSets): id => 75
+2013-09-15 06:54:43:   SANITIZE: (author_name)
+2013-09-15 06:54:43:   SANITIZE: (author_email)
+2013-09-15 06:54:43:   SANITIZE: (organization)
+2013-09-15 06:54:43:   SANITIZE: (publisher_source)
+2013-09-15 06:54:43:   SANITIZE: (title)
+2013-09-15 06:54:43:   SANITIZE: (link)
+2013-09-15 06:54:43:   SANITIZE: (type)
+2013-09-15 06:54:43:   SANITIZE: (map_data)
+2013-09-15 06:54:43:   SANITIZE: (cat)
+2013-09-15 06:54:43:   SANITIZE: (tmDesc)
+2013-09-15 06:54:43:   SANITIZE: (tags)
+2013-09-15 06:54:43:   SANITIZE: (action)
+2013-09-15 06:54:43:   SANITIZE: (id)
+2013-09-15 06:54:43:   SANITIZE: (desc)
+2013-09-15 06:54:43:   Insert(dataSets): id => 76
+2013-09-15 06:54:47:   getRows(categories): 14 rows returned
+2013-09-15 06:54:47:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 06:54:58:   SANITIZE: (author_name)
+2013-09-15 06:54:58:   SANITIZE: (author_email)
+2013-09-15 06:54:58:   SANITIZE: (organization)
+2013-09-15 06:54:58:   SANITIZE: (publisher_source)
+2013-09-15 06:54:58:   SANITIZE: (title)
+2013-09-15 06:54:58:   SANITIZE: (link)
+2013-09-15 06:54:58:   SANITIZE: (type)
+2013-09-15 06:54:58:   SANITIZE: (cat)
+2013-09-15 06:54:58:   SANITIZE: (tmDesc)
+2013-09-15 06:54:58:   SANITIZE: (tags)
+2013-09-15 06:54:58:   SANITIZE: (action)
+2013-09-15 06:54:58:   SANITIZE: (id)
+2013-09-15 06:54:58:   SANITIZE: (desc)
+2013-09-15 06:54:58:   Insert(dataSets): id => 77
+2013-09-15 06:55:05:   SANITIZE: (author_name)
+2013-09-15 06:55:05:   SANITIZE: (author_email)
+2013-09-15 06:55:05:   SANITIZE: (organization)
+2013-09-15 06:55:05:   SANITIZE: (publisher_source)
+2013-09-15 06:55:05:   SANITIZE: (title)
+2013-09-15 06:55:05:   SANITIZE: (link)
+2013-09-15 06:55:05:   SANITIZE: (type)
+2013-09-15 06:55:05:   SANITIZE: (map_data)
+2013-09-15 06:55:05:   SANITIZE: (cat)
+2013-09-15 06:55:05:   SANITIZE: (tmDesc)
+2013-09-15 06:55:05:   SANITIZE: (tags)
+2013-09-15 06:55:05:   SANITIZE: (action)
+2013-09-15 06:55:05:   SANITIZE: (id)
+2013-09-15 06:55:05:   SANITIZE: (desc)
+2013-09-15 06:55:05:   Insert(dataSets): id => 78
+2013-09-15 06:56:32:   getRows(dataSets): 8 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 2 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 13 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 5 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 2 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 8 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 1 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 11 rows returned
+2013-09-15 06:56:32:   getRows(dataSets): 3 rows returned
+2013-09-15 06:56:33:   getRows(categories): 14 rows returned
+2013-09-15 06:56:33:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 06:56:43:   SANITIZE: (author_name)
+2013-09-15 06:56:43:   SANITIZE: (author_email)
+2013-09-15 06:56:43:   SANITIZE: (organization)
+2013-09-15 06:56:43:   SANITIZE: (publisher_source)
+2013-09-15 06:56:43:   SANITIZE: (title)
+2013-09-15 06:56:43:   SANITIZE: (link)
+2013-09-15 06:56:43:   SANITIZE: (type)
+2013-09-15 06:56:43:   SANITIZE: (map_data)
+2013-09-15 06:56:43:   SANITIZE: (cat)
+2013-09-15 06:56:43:   SANITIZE: (tmDesc)
+2013-09-15 06:56:43:   SANITIZE: (tags)
+2013-09-15 06:56:43:   SANITIZE: (action)
+2013-09-15 06:56:43:   SANITIZE: (id)
+2013-09-15 06:56:43:   SANITIZE: (desc)
+2013-09-15 06:56:43:   Insert(dataSets): id => 79
+2013-09-15 06:56:49:   SANITIZE: (author_name)
+2013-09-15 06:56:49:   SANITIZE: (author_email)
+2013-09-15 06:56:49:   SANITIZE: (organization)
+2013-09-15 06:56:49:   SANITIZE: (publisher_source)
+2013-09-15 06:56:49:   SANITIZE: (title)
+2013-09-15 06:56:49:   SANITIZE: (link)
+2013-09-15 06:56:49:   SANITIZE: (type)
+2013-09-15 06:56:49:   SANITIZE: (map_data)
+2013-09-15 06:56:49:   SANITIZE: (cat)
+2013-09-15 06:56:49:   SANITIZE: (tmDesc)
+2013-09-15 06:56:49:   SANITIZE: (tags)
+2013-09-15 06:56:49:   SANITIZE: (action)
+2013-09-15 06:56:49:   SANITIZE: (id)
+2013-09-15 06:56:49:   SANITIZE: (desc)
+2013-09-15 06:56:49:   Insert(dataSets): id => 80
+2013-09-15 06:57:06:   getRows(categories): 14 rows returned
+2013-09-15 06:57:06:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 06:57:09:   SANITIZE: (author_name)
+2013-09-15 06:57:09:   SANITIZE: (author_email)
+2013-09-15 06:57:09:   SANITIZE: (organization)
+2013-09-15 06:57:09:   SANITIZE: (publisher_source)
+2013-09-15 06:57:09:   SANITIZE: (title)
+2013-09-15 06:57:09:   SANITIZE: (link)
+2013-09-15 06:57:09:   SANITIZE: (type)
+2013-09-15 06:57:09:   SANITIZE: (map_data)
+2013-09-15 06:57:09:   SANITIZE: (cat)
+2013-09-15 06:57:09:   SANITIZE: (tmDesc)
+2013-09-15 06:57:09:   SANITIZE: (tags)
+2013-09-15 06:57:09:   SANITIZE: (action)
+2013-09-15 06:57:09:   SANITIZE: (id)
+2013-09-15 06:57:09:   SANITIZE: (desc)
+2013-09-15 06:57:09:   Insert(dataSets): id => 81
+2013-09-15 06:57:15:   SANITIZE: (author_name)
+2013-09-15 06:57:15:   SANITIZE: (author_email)
+2013-09-15 06:57:15:   SANITIZE: (organization)
+2013-09-15 06:57:15:   SANITIZE: (publisher_source)
+2013-09-15 06:57:15:   SANITIZE: (title)
+2013-09-15 06:57:15:   SANITIZE: (link)
+2013-09-15 06:57:15:   SANITIZE: (type)
+2013-09-15 06:57:15:   SANITIZE: (map_data)
+2013-09-15 06:57:15:   SANITIZE: (cat)
+2013-09-15 06:57:15:   SANITIZE: (tmDesc)
+2013-09-15 06:57:15:   SANITIZE: (tags)
+2013-09-15 06:57:15:   SANITIZE: (action)
+2013-09-15 06:57:15:   SANITIZE: (id)
+2013-09-15 06:57:15:   SANITIZE: (desc)
+2013-09-15 06:57:15:   Insert(dataSets): id => 82
+2013-09-15 06:57:30:   SANITIZE: (author_name)
+2013-09-15 06:57:30:   SANITIZE: (author_email)
+2013-09-15 06:57:30:   SANITIZE: (organization)
+2013-09-15 06:57:30:   SANITIZE: (publisher_source)
+2013-09-15 06:57:30:   SANITIZE: (title)
+2013-09-15 06:57:30:   SANITIZE: (link)
+2013-09-15 06:57:30:   SANITIZE: (type)
+2013-09-15 06:57:30:   SANITIZE: (map_data)
+2013-09-15 06:57:30:   SANITIZE: (cat)
+2013-09-15 06:57:30:   SANITIZE: (tmDesc)
+2013-09-15 06:57:30:   SANITIZE: (tags)
+2013-09-15 06:57:30:   SANITIZE: (action)
+2013-09-15 06:57:30:   SANITIZE: (id)
+2013-09-15 06:57:30:   SANITIZE: (desc)
+2013-09-15 06:57:30:   Insert(dataSets): id => 83
+2013-09-15 06:57:33:   SANITIZE: (author_name)
+2013-09-15 06:57:33:   SANITIZE: (author_email)
+2013-09-15 06:57:33:   SANITIZE: (organization)
+2013-09-15 06:57:33:   SANITIZE: (publisher_source)
+2013-09-15 06:57:33:   SANITIZE: (title)
+2013-09-15 06:57:33:   SANITIZE: (link)
+2013-09-15 06:57:33:   SANITIZE: (type)
+2013-09-15 06:57:33:   SANITIZE: (map_data)
+2013-09-15 06:57:33:   SANITIZE: (cat)
+2013-09-15 06:57:33:   SANITIZE: (tmDesc)
+2013-09-15 06:57:33:   SANITIZE: (tags)
+2013-09-15 06:57:33:   SANITIZE: (action)
+2013-09-15 06:57:33:   SANITIZE: (id)
+2013-09-15 06:57:33:   SANITIZE: (desc)
+2013-09-15 06:57:33:   Insert(dataSets): id => 84
+2013-09-15 06:57:37:   SANITIZE: (author_name)
+2013-09-15 06:57:37:   SANITIZE: (author_email)
+2013-09-15 06:57:37:   SANITIZE: (organization)
+2013-09-15 06:57:37:   SANITIZE: (publisher_source)
+2013-09-15 06:57:37:   SANITIZE: (title)
+2013-09-15 06:57:37:   SANITIZE: (link)
+2013-09-15 06:57:37:   SANITIZE: (type)
+2013-09-15 06:57:37:   SANITIZE: (map_data)
+2013-09-15 06:57:37:   SANITIZE: (cat)
+2013-09-15 06:57:37:   SANITIZE: (tmDesc)
+2013-09-15 06:57:37:   SANITIZE: (tags)
+2013-09-15 06:57:37:   SANITIZE: (action)
+2013-09-15 06:57:37:   SANITIZE: (id)
+2013-09-15 06:57:37:   SANITIZE: (desc)
+2013-09-15 06:57:37:   Insert(dataSets): id => 85
+2013-09-15 07:11:29:   getRows(dataSets): 8 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 2 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 13 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 5 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 2 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 8 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 1 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 11 rows returned
+2013-09-15 07:11:29:   getRows(dataSets): 3 rows returned
+2013-09-15 07:11:30:   getRows(categories): 14 rows returned
+2013-09-15 07:11:30:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 07:12:15:   SANITIZE: (author_name)
+2013-09-15 07:12:15:   SANITIZE: (author_email)
+2013-09-15 07:12:15:   SANITIZE: (organization)
+2013-09-15 07:12:15:   SANITIZE: (publisher_source)
+2013-09-15 07:12:15:   SANITIZE: (title)
+2013-09-15 07:12:15:   SANITIZE: (link)
+2013-09-15 07:12:15:   SANITIZE: (type)
+2013-09-15 07:12:15:   SANITIZE: (map_data)
+2013-09-15 07:12:15:   SANITIZE: (cat)
+2013-09-15 07:12:15:   SANITIZE: (tmDesc)
+2013-09-15 07:12:15:   SANITIZE: (tags)
+2013-09-15 07:12:15:   SANITIZE: (action)
+2013-09-15 07:12:15:   SANITIZE: (id)
+2013-09-15 07:12:15:   SANITIZE: (desc)
+2013-09-15 07:12:15:   Insert(dataSets): id => 86
+2013-09-15 07:12:57:   SANITIZE: (author_name)
+2013-09-15 07:12:57:   SANITIZE: (author_email)
+2013-09-15 07:12:57:   SANITIZE: (organization)
+2013-09-15 07:12:57:   SANITIZE: (publisher_source)
+2013-09-15 07:12:57:   SANITIZE: (title)
+2013-09-15 07:12:57:   SANITIZE: (link)
+2013-09-15 07:12:57:   SANITIZE: (type)
+2013-09-15 07:12:57:   SANITIZE: (map_data)
+2013-09-15 07:12:57:   SANITIZE: (cat)
+2013-09-15 07:12:57:   SANITIZE: (tmDesc)
+2013-09-15 07:12:57:   SANITIZE: (tags)
+2013-09-15 07:12:57:   SANITIZE: (action)
+2013-09-15 07:12:57:   SANITIZE: (id)
+2013-09-15 07:12:57:   SANITIZE: (desc)
+2013-09-15 07:12:57:   Insert(dataSets): id => 87
+2013-09-15 07:14:13:   SANITIZE: (author_name)
+2013-09-15 07:14:13:   SANITIZE: (author_email)
+2013-09-15 07:14:13:   SANITIZE: (organization)
+2013-09-15 07:14:13:   SANITIZE: (publisher_source)
+2013-09-15 07:14:13:   SANITIZE: (title)
+2013-09-15 07:14:13:   SANITIZE: (link)
+2013-09-15 07:14:13:   SANITIZE: (type)
+2013-09-15 07:14:13:   SANITIZE: (map_data)
+2013-09-15 07:14:13:   SANITIZE: (cat)
+2013-09-15 07:14:13:   SANITIZE: (tmDesc)
+2013-09-15 07:14:13:   SANITIZE: (tags)
+2013-09-15 07:14:13:   SANITIZE: (action)
+2013-09-15 07:14:13:   SANITIZE: (id)
+2013-09-15 07:14:13:   SANITIZE: (desc)
+2013-09-15 07:14:13:   Insert(dataSets): id => 88
+2013-09-15 07:25:37:   SANITIZE: (author_name)
+2013-09-15 07:25:37:   SANITIZE: (author_email)
+2013-09-15 07:25:37:   SANITIZE: (organization)
+2013-09-15 07:25:37:   SANITIZE: (publisher_source)
+2013-09-15 07:25:37:   SANITIZE: (title)
+2013-09-15 07:25:37:   SANITIZE: (link)
+2013-09-15 07:25:37:   SANITIZE: (type)
+2013-09-15 07:25:37:   SANITIZE: (map_data)
+2013-09-15 07:25:37:   SANITIZE: (cat)
+2013-09-15 07:25:37:   SANITIZE: (tmDesc)
+2013-09-15 07:25:37:   SANITIZE: (tags)
+2013-09-15 07:25:37:   SANITIZE: (action)
+2013-09-15 07:25:37:   SANITIZE: (id)
+2013-09-15 07:25:37:   SANITIZE: (desc)
+2013-09-15 07:25:37:   Insert(dataSets): id => 89
+2013-09-15 07:26:42:   getRows(dataSets): 8 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 2 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 13 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 5 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 2 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 8 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 1 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 11 rows returned
+2013-09-15 07:26:42:   getRows(dataSets): 3 rows returned
+2013-09-15 07:26:42:   getRows(categories): 14 rows returned
+2013-09-15 07:26:42:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 07:27:41:   SANITIZE: (author_name)
+2013-09-15 07:27:41:   SANITIZE: (author_email)
+2013-09-15 07:27:41:   SANITIZE: (organization)
+2013-09-15 07:27:41:   SANITIZE: (orig_source)
+2013-09-15 07:27:41:   SANITIZE: (title)
+2013-09-15 07:27:41:   SANITIZE: (link)
+2013-09-15 07:27:41:   SANITIZE: (type)
+2013-09-15 07:27:41:   SANITIZE: (map_data)
+2013-09-15 07:27:41:   SANITIZE: (cat)
+2013-09-15 07:27:41:   SANITIZE: (tmDesc)
+2013-09-15 07:27:41:   SANITIZE: (tags)
+2013-09-15 07:27:41:   SANITIZE: (action)
+2013-09-15 07:27:41:   SANITIZE: (id)
+2013-09-15 07:27:41:   SANITIZE: (desc)
+2013-09-15 07:27:41:   Insert(dataSets): id => 90
+2013-09-15 07:42:56:   getRows(dataSets): 8 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 2 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 13 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 5 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 2 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 8 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 1 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 11 rows returned
+2013-09-15 07:42:56:   getRows(dataSets): 3 rows returned
+2013-09-15 07:42:57:   getRows(categories): 14 rows returned
+2013-09-15 07:42:57:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 07:43:05:   SANITIZE: (author_name)
+2013-09-15 07:43:05:   SANITIZE: (author_email)
+2013-09-15 07:43:05:   SANITIZE: (organization)
+2013-09-15 07:43:05:   SANITIZE: (orig_source)
+2013-09-15 07:43:05:   SANITIZE: (title)
+2013-09-15 07:43:05:   SANITIZE: (link)
+2013-09-15 07:43:05:   SANITIZE: (type)
+2013-09-15 07:43:05:   SANITIZE: (map_data)
+2013-09-15 07:43:05:   SANITIZE: (cat)
+2013-09-15 07:43:05:   SANITIZE: (tmDesc)
+2013-09-15 07:43:05:   SANITIZE: (tags)
+2013-09-15 07:43:05:   SANITIZE: (action)
+2013-09-15 07:43:05:   SANITIZE: (id)
+2013-09-15 07:43:05:   SANITIZE: (desc)
+2013-09-15 07:43:05:   Insert(dataSets): id => 91
+2013-09-15 07:43:24:   SANITIZE: (author_name)
+2013-09-15 07:43:24:   SANITIZE: (author_email)
+2013-09-15 07:43:24:   SANITIZE: (organization)
+2013-09-15 07:43:24:   SANITIZE: (orig_source)
+2013-09-15 07:43:24:   SANITIZE: (title)
+2013-09-15 07:43:24:   SANITIZE: (link)
+2013-09-15 07:43:24:   SANITIZE: (type)
+2013-09-15 07:43:24:   SANITIZE: (map_data)
+2013-09-15 07:43:24:   SANITIZE: (cat)
+2013-09-15 07:43:24:   SANITIZE: (tmDesc)
+2013-09-15 07:43:24:   SANITIZE: (tags)
+2013-09-15 07:43:24:   SANITIZE: (action)
+2013-09-15 07:43:24:   SANITIZE: (id)
+2013-09-15 07:43:24:   SANITIZE: (desc)
+2013-09-15 07:43:24:   Insert(dataSets): id => 92
+2013-09-15 07:43:46:   SANITIZE: (author_name)
+2013-09-15 07:43:46:   SANITIZE: (author_email)
+2013-09-15 07:43:46:   SANITIZE: (organization)
+2013-09-15 07:43:46:   SANITIZE: (orig_source)
+2013-09-15 07:43:46:   SANITIZE: (title)
+2013-09-15 07:43:46:   SANITIZE: (link)
+2013-09-15 07:43:46:   SANITIZE: (type)
+2013-09-15 07:43:46:   SANITIZE: (map_data)
+2013-09-15 07:43:46:   SANITIZE: (cat)
+2013-09-15 07:43:46:   SANITIZE: (tmDesc)
+2013-09-15 07:43:46:   SANITIZE: (tags)
+2013-09-15 07:43:46:   SANITIZE: (action)
+2013-09-15 07:43:46:   SANITIZE: (id)
+2013-09-15 07:43:46:   SANITIZE: (desc)
+2013-09-15 07:43:46:   Insert(dataSets): id => 93
+2013-09-15 07:43:48:   getRows(categories): 14 rows returned
+2013-09-15 07:43:48:   getRows(organization ORDER BY organization): 2 rows returned
+2013-09-15 07:43:55:   SANITIZE: (author_name)
+2013-09-15 07:43:55:   SANITIZE: (author_email)
+2013-09-15 07:43:55:   SANITIZE: (organization)
+2013-09-15 07:43:55:   SANITIZE: (orig_source)
+2013-09-15 07:43:55:   SANITIZE: (title)
+2013-09-15 07:43:55:   SANITIZE: (link)
+2013-09-15 07:43:55:   SANITIZE: (type)
+2013-09-15 07:43:55:   SANITIZE: (map_data)
+2013-09-15 07:43:55:   SANITIZE: (cat)
+2013-09-15 07:43:55:   SANITIZE: (tmDesc)
+2013-09-15 07:43:55:   SANITIZE: (tags)
+2013-09-15 07:43:55:   SANITIZE: (action)
+2013-09-15 07:43:55:   SANITIZE: (id)
+2013-09-15 07:43:55:   SANITIZE: (desc)
+2013-09-15 07:43:55:   Insert(dataSets): id => 94
+2013-09-15 07:43:55:   getRows(dataSets): 8 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 2 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 13 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 5 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 2 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 8 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 1 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 11 rows returned
+2013-09-15 07:43:55:   getRows(dataSets): 3 rows returned
+2013-09-15 07:48:08:   getRows(dataSets): 14 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 8 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 2 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 13 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 5 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 2 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 8 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 1 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 11 rows returned
+2013-09-15 07:50:50:   getRows(dataSets): 3 rows returned
+2013-09-15 07:50:51:   getRows(dataSets): 14 rows returned
+2013-09-15 07:50:51:   getRows(dataSets): 14 rows returned
+2013-09-15 07:54:07:   getRows(dataSets): 14 rows returned
+2013-09-15 07:54:07:   getRows(dataSets): 14 rows returned
+2013-09-15 07:54:41:   getRows(dataSets): 14 rows returned
+2013-09-15 07:54:42:   getRows(dataSets): 14 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 8 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 2 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 13 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 5 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 2 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 8 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 1 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 11 rows returned
+2013-09-15 07:57:48:   getRows(dataSets): 3 rows returned
+2013-09-15 07:57:49:   getRows(dataSets): 14 rows returned
+2013-09-15 07:57:49:   getRows(dataSets): 14 rows returned
+2013-09-15 07:58:23:   getRows(dataSets): 14 rows returned
+2013-09-15 07:58:23:   getRows(dataSets): 14 rows returned
+2013-09-15 07:58:32:   getRows(dataSets): 14 rows returned
+2013-09-15 07:58:32:   getRows(dataSets): 14 rows returned
+2013-09-15 07:58:59:   getRows(dataSets): 14 rows returned
+2013-09-15 07:58:59:   getRows(dataSets): 14 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 8 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 2 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 13 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 5 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 2 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 8 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 1 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 11 rows returned
+2013-09-15 07:59:01:   getRows(dataSets): 3 rows returned
+2013-09-15 07:59:02:   getRows(dataSets): 14 rows returned
+2013-09-15 07:59:02:   getRows(dataSets): 14 rows returned

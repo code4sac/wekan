@@ -8,6 +8,7 @@ $query = "
       ,   link
   FROM dataSets
   WHERE link_type = 'Fusion Table'
+  AND map_data = '1'
 ";
 $rows = $sql->getRows($query);
 ?>

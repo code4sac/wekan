@@ -12,6 +12,12 @@ $site_config = array (
 			'errors'=> true,
 			'debug'	=> true
     ),
+  'mail' =>
+    array (
+      'smtp_host'   => 'smtp.gmail.com',
+      'smtp_port'   => '465',
+      'mail_from'   => 'kaleb@codeforsacramento.org'
+    ),
 	'site' =>
 		array (
       'title'   => 'WeKan',
@@ -21,6 +27,7 @@ $site_config = array (
 			'charset'	=> 'utf-8',
 			'jquery'	=> true,
 			'jquery_theme' => 'smoothness',
+      'api_key' => 'AIzaSyAJsXs9HHywzBcR_JSfcgQeWmrEyaPu28c',
 			'google_api'	=> false
 		)
 );

@@ -26,7 +26,9 @@ include('lib/html/head.php');
 		    <li><a href="#" onClick="javascript:showForm();">Suggest Data</a></li>
 		    <li><a href="#" onClick="javascript:emerge.ajax_get('views/about.html', 'main_container');">About Data Portal</a></li>
 		    <li><a href="#" onClick="javascript:emerge.ajax_get('views/help.html', 'main_container');">Help</a></li>
+		    <li><a href="#" onClick="javascript:loadMap();">Map</a></li>
       </ul>
+      <div id="left_bottom"></div>
     </div>
   </div><!-- /#leftColumn -->
 

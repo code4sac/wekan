@@ -13,3 +13,11 @@ if($site_config['site']['google_api']) {
 	require_once(ROOT_PATH.'/lib/google-api/Google_Client.php');
 	require_once(ROOT_PATH.'/lib/google-api/contrib/Google_Oauth2Service.php');
 }
+
+/* Email setup
+ * =========== */
+if($site_config['mail']['smtp_host']) {
+  ini_set('sendmail_from', $site_config['mail']['mail_from']);
+  ini_set('SMTP', $site_config['mail']['smtp_host']);
+  ini_set('smtp_port', $site_config['mail']['smtp_port']);
+}

@@ -13,6 +13,10 @@ $(function() {
    * ============ */
 	emerge.ajax_get('views/show_data.php', 'main_container');
 });
+function loadMap() {
+  emerge.ajax_get('views/map.php', 'main_container');
+  emerge.ajax_get('views/map_menu.php', 'left_bottom');
+}
 function showForm() {
 	emerge.ajax_get('views/suggest_form.php', 'main_container');
 	emerge.ajax_get('views/help/suggest_help.html', 'left_container');
