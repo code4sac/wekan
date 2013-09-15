@@ -19,6 +19,8 @@ $query = "
 $detail = $sql->getRows($query);
 $detail = $detail[0];
 ?>
+<div class="innertube">
+<h3><?=$detail->title;?></h3>
 <strong>Organization:&nbsp;</strong><?=$detail->organization;?><br/>
 <strong>Original Source:&nbsp;</strong><?=$detail->orig_source;?><br/>
 <strong>Category:&nbsp;</strong><?=$detail->category;?><br/>
@@ -33,3 +35,5 @@ $detail = $detail[0];
 <hr/>
 <strong>Description:</strong><br/>
 <div><? echo urldecode($detail->description);?></div>
+<br/>
+</div>
