@@ -1,4 +1,4 @@
 Authtype Basic
 AuthName "code4sac login"
-AuthUserFile /home1/abraxxus/www/codeforsacramento-sandbox/data/admin/.htpasswd
+AuthUserFile /var/www/wekan/admin/.htpasswd
 require valid-user

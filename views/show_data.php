@@ -11,7 +11,7 @@ if(isset($_GET['search'])) {
 	if(isset($_GET['search'])) {
 		$WHERE = "
 		AND CONCAT(dataSets.link_type
-				,	dataSets.suggested_by
+				,	dataSets.author_name
 				,	dataSets.approved_by
 				,	dataSets.title
 				,	dataSets.description

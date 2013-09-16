@@ -54,4 +54,6 @@ input, select {
 }
 .info_help {
 	cursor: pointer;
+  position: relative;
+  top: 4px;
 }

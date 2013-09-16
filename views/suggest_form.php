@@ -42,14 +42,14 @@ $(function() {
 		var alt = $(this).attr('alt');
 		$(this).click(function() {
 			var help_file = 'views/help/info_'+alt+'.html';
-			emerge.ajax_get(help_file, 'left_container');
+			emerge.ajax_get(help_file, 'left_bottom');
 		});
 	});
 });
 function updateHelp() {
 	var link_type = $('#type').val().replace(/\s+/g, '_');
 	var help_file = 'views/help/help_'+link_type+'.html';
-	emerge.ajax_get(help_file, 'left_container');
+	emerge.ajax_get(help_file, 'left_bottom');
 }
 function submit_data(type) {
 	// Since I use serialize to gather up the data from the form, and tinyMCE does not return anything,
@@ -84,19 +84,24 @@ function newOrg() {
 		  <th>Your Email:</th>
 		  <td>
         <input type="text" name="author_email" size="40" id="author_email" />
-        <img class="info_help" alt="name" src="/views/img/info.png" />
+        <img class="info_help" alt="author_email" src="/views/img/info.png" />
       </td>
 	  </tr>
     <tr>
       <th>Organization</th>
       <td>
         <span id="org"></span>
+        <img class="info_help" alt="organization" src="/views/img/info.png" />
+        <!-- Not ready yet...
         <button onClick="newOrg(); return false;">Add Organization</button>
+        -->
       </td>
     </tr>
     <tr>
       <th>Original Source</th>
-      <td><input type="text" name="orig_source" id="orig_source" size="40"/></td>
+      <td><input type="text" name="orig_source" id="orig_source" size="60"/>
+        <img class="info_help" alt="orig_source" src="/views/img/info.png" />
+      </td>
     </tr>
 	  <tr>
       <th>Title:</th>
@@ -123,6 +128,7 @@ function newOrg() {
 		    </select>
         <input type="hidden" name="map_data" value="0"/> <!-- checkbox val=0 hack -->
         <span>Contains Map Data? <input id="map_data" name="map_data" type="checkbox" value='1'/></span>
+        <img class="info_help" alt="link_type" src="/views/img/info.png" />
 		  </td>
     </tr>
 	  <tr>
@@ -140,6 +146,7 @@ function newOrg() {
 		    }
 		    ?>
 		  </select>
+        <img class="info_help" alt="category" src="/views/img/info.png" />
 		  </td>
     </tr>
 	  <tr>
@@ -155,6 +162,7 @@ function newOrg() {
         <img class="info_help" alt="tags" src="/views/img/info.png" />
       </td>
     </tr>
+    <!-- Not ready yet...`
     <tr>
       <th>Key / Value pairs</th>
       <td>
@@ -165,6 +173,7 @@ function newOrg() {
         <div>Key: <input type="text" /> = Value: <input type="text" /></div>
       </td>
     </tr>
+    -->
     <tr>
 		  <td>&nbsp;</td>
 		  <td>

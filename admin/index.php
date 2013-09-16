@@ -1,5 +1,5 @@
 <?
-include('../head.php');
+include('../lib/html/head.php');
 ?>
 <script type="text/javascript">
 	$(function() {
